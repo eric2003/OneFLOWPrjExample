@@ -1,0 +1,8 @@
+int dimension = 1;
+int scalar_flag = 3;
+
+int  scalar_nx  = 6401;
+int  scalar_len = 2.0;
+Real scalar_c   = 1;
+
+string scalar_grid_filename = "grid/scalar6401.ofl";
